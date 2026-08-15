@@ -73,6 +73,9 @@ namespace miPrimeraAplicacion
                         resultado = resultado * i;
                     }
                     break;
+                case 7:
+                    resultado = num1 % num2;
+                    break;
             }
             lblRespuesta.Text = "Respuesta : " + Math.Round(resultado, 4).ToString();
 
