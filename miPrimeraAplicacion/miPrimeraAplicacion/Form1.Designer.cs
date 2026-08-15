@@ -34,6 +34,15 @@
             txtNum2 = new TextBox();
             lblNUm2 = new Label();
             lblRespuesta = new Label();
+            grbOpciones = new GroupBox();
+            rdbSuma = new RadioButton();
+            rdbResta = new RadioButton();
+            rdbMultiplicacion = new RadioButton();
+            rdbDivision = new RadioButton();
+            rdbExponente = new RadioButton();
+            rdbRaiz = new RadioButton();
+            rdbFactorial = new RadioButton();
+            grbOpciones.SuspendLayout();
             SuspendLayout();
             // 
             // lblNum1
@@ -91,11 +100,105 @@
             lblRespuesta.TabIndex = 6;
             lblRespuesta.Text = "Respuesta ?";
             // 
+            // grbOpciones
+            // 
+            grbOpciones.Controls.Add(rdbFactorial);
+            grbOpciones.Controls.Add(rdbRaiz);
+            grbOpciones.Controls.Add(rdbExponente);
+            grbOpciones.Controls.Add(rdbDivision);
+            grbOpciones.Controls.Add(rdbMultiplicacion);
+            grbOpciones.Controls.Add(rdbResta);
+            grbOpciones.Controls.Add(rdbSuma);
+            grbOpciones.Location = new Point(400, 85);
+            grbOpciones.Name = "grbOpciones";
+            grbOpciones.Size = new Size(191, 361);
+            grbOpciones.TabIndex = 7;
+            grbOpciones.TabStop = false;
+            grbOpciones.Text = "Opciones";
+            // 
+            // rdbSuma
+            // 
+            rdbSuma.AutoSize = true;
+            rdbSuma.Location = new Point(20, 36);
+            rdbSuma.Name = "rdbSuma";
+            rdbSuma.Size = new Size(67, 24);
+            rdbSuma.TabIndex = 0;
+            rdbSuma.TabStop = true;
+            rdbSuma.Text = "Suma";
+            rdbSuma.UseVisualStyleBackColor = true;
+            // 
+            // rdbResta
+            // 
+            rdbResta.AutoSize = true;
+            rdbResta.Location = new Point(20, 82);
+            rdbResta.Name = "rdbResta";
+            rdbResta.Size = new Size(70, 24);
+            rdbResta.TabIndex = 1;
+            rdbResta.TabStop = true;
+            rdbResta.Text = "Resta ";
+            rdbResta.UseVisualStyleBackColor = true;
+            // 
+            // rdbMultiplicacion
+            // 
+            rdbMultiplicacion.AutoSize = true;
+            rdbMultiplicacion.Location = new Point(20, 126);
+            rdbMultiplicacion.Name = "rdbMultiplicacion";
+            rdbMultiplicacion.Size = new Size(124, 24);
+            rdbMultiplicacion.TabIndex = 2;
+            rdbMultiplicacion.TabStop = true;
+            rdbMultiplicacion.Text = "Multiplicacion";
+            rdbMultiplicacion.UseVisualStyleBackColor = true;
+            // 
+            // rdbDivision
+            // 
+            rdbDivision.AutoSize = true;
+            rdbDivision.Location = new Point(20, 167);
+            rdbDivision.Name = "rdbDivision";
+            rdbDivision.Size = new Size(87, 24);
+            rdbDivision.TabIndex = 3;
+            rdbDivision.TabStop = true;
+            rdbDivision.Text = "Division ";
+            rdbDivision.UseVisualStyleBackColor = true;
+            // 
+            // rdbExponente
+            // 
+            rdbExponente.AutoSize = true;
+            rdbExponente.Location = new Point(20, 216);
+            rdbExponente.Name = "rdbExponente";
+            rdbExponente.Size = new Size(100, 24);
+            rdbExponente.TabIndex = 4;
+            rdbExponente.TabStop = true;
+            rdbExponente.Text = "Exponente";
+            rdbExponente.UseVisualStyleBackColor = true;
+            // 
+            // rdbRaiz
+            // 
+            rdbRaiz.AutoSize = true;
+            rdbRaiz.Location = new Point(20, 258);
+            rdbRaiz.Name = "rdbRaiz";
+            rdbRaiz.Size = new Size(58, 24);
+            rdbRaiz.TabIndex = 5;
+            rdbRaiz.TabStop = true;
+            rdbRaiz.Text = "Raiz";
+            rdbRaiz.UseVisualStyleBackColor = true;
+            // 
+            // rdbFactorial
+            // 
+            rdbFactorial.AutoSize = true;
+            rdbFactorial.Location = new Point(6, 302);
+            rdbFactorial.Name = "rdbFactorial";
+            rdbFactorial.Size = new Size(86, 24);
+            rdbFactorial.TabIndex = 6;
+            rdbFactorial.TabStop = true;
+            rdbFactorial.Text = "Factorial";
+            rdbFactorial.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(537, 478);
+            ClientSize = new Size(652, 511);
+            Controls.Add(grbOpciones);
             Controls.Add(lblRespuesta);
             Controls.Add(txtNum2);
             Controls.Add(lblNUm2);
@@ -105,6 +208,8 @@
             Name = "Form1";
             Text = "Calculador basicaa";
             Load += Form1_Load;
+            grbOpciones.ResumeLayout(false);
+            grbOpciones.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -117,5 +222,13 @@
         private TextBox txtNum2;
         private Label lblNUm2;
         private Label lblRespuesta;
+        private GroupBox grbOpciones;
+        private RadioButton rdbSuma;
+        private RadioButton rdbFactorial;
+        private RadioButton rdbRaiz;
+        private RadioButton rdbExponente;
+        private RadioButton rdbDivision;
+        private RadioButton rdbMultiplicacion;
+        private RadioButton rdbResta;
     }
 }
