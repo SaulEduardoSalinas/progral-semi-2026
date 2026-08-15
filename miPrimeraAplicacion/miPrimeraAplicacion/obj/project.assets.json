@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Programacion\\miPrimeraAplicacion\\miPrimeraAplicacion\\miPrimeraAplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\prograI-semi-2026\\miPrimeraAplicacion\\miPrimeraAplicacion\\miPrimeraAplicacion.csproj",
       "projectName": "miPrimeraAplicacion",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Programacion\\miPrimeraAplicacion\\miPrimeraAplicacion\\miPrimeraAplicacion.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\prograI-semi-2026\\miPrimeraAplicacion\\miPrimeraAplicacion\\miPrimeraAplicacion.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Programacion\\miPrimeraAplicacion\\miPrimeraAplicacion\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\prograI-semi-2026\\miPrimeraAplicacion\\miPrimeraAplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
