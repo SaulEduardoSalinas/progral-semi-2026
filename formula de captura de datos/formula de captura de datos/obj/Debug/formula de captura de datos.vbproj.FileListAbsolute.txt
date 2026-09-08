@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\bin\Debug\formula de captura de datos.exe.config
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\bin\Debug\formula de captura de datos.exe
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\bin\Debug\formula de captura de datos.pdb
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\bin\Debug\formula de captura de datos.xml
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula_de_captura_de_datos.Form1.resources
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula_de_captura_de_datos.Resources.resources
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.exe
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.xml
+C:\Users\HP\source\repos\formula de captura de datos\formula de captura de datos\obj\Debug\formula de captura de datos.pdb

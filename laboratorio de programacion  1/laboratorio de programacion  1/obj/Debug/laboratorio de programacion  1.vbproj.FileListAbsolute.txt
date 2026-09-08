@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\bin\Debug\laboratorio de programacion  1.exe.config
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\bin\Debug\laboratorio de programacion  1.exe
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\bin\Debug\laboratorio de programacion  1.pdb
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\bin\Debug\laboratorio de programacion  1.xml
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio_de_programacion__1.Form1.resources
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio_de_programacion__1.Resources.resources
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.exe
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.xml
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio de programacion  1.pdb
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio_de_programacion__1.fmrestudiantes.resources
+C:\Users\HP\source\repos\laboratorio de programacion  1\laboratorio de programacion  1\obj\Debug\laboratorio_de_programacion__1.fmrmaestro.resources
