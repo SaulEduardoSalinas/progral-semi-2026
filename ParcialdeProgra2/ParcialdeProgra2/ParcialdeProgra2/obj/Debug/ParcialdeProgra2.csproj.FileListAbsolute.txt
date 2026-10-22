@@ -1,0 +1,33 @@
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1.mdf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1_log.ldf
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe.config
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.pdb
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.Properties.Resources.resources
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.exe
+C:\Users\jesus\source\repos\Mis Ejercios de progra 2026\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.pdb
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1.mdf
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1_log.ldf
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe.config
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.pdb
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.exe
+C:\Users\HP\OneDrive\Desktop\Programacion\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.pdb
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1.mdf
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\Database1_log.ldf
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe.config
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.exe
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\bin\Debug\ParcialdeProgra2.pdb
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.Properties.Resources.resources
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.exe
+C:\Users\HP\source\repos\progral-semi-2026\ParcialdeProgra2\ParcialdeProgra2\ParcialdeProgra2\obj\Debug\ParcialdeProgra2.pdb
