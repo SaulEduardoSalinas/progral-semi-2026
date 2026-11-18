@@ -32,3 +32,21 @@ async function obtenerAlumnos(buscar = '') {
         alumnos = await respuesta.json();
     return alumnos;
 }
+
+async function obtenerMaterias(buscar = '') {
+    const respuesta = await fetch(`/api/Materias/buscar?buscar=${encodeURIComponent(buscar)}`, {
+        method: "GET",
+        headers: { "Content-Type": "application/json" }
+    }),
+        materias = await respuesta.json();
+    return materias;
+}
+
+async function obtenerDocentes(buscar = '') {
+    const respuesta = await fetch(`/api/Docentes/buscar?buscar=${encodeURIComponent(buscar)}`, {
+        method: "GET",
+        headers: { "Content-Type": "application/json" }
+    }),
+        docentes = await respuesta.json();
+    return docentes;
+}

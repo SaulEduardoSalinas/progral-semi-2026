@@ -4,7 +4,15 @@ wwwroot\views\alumno.html
 wwwroot\views\app.js
 wwwroot\views\busqueda_alumno.html
 wwwroot\views\index.html
-C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\alumno.html
+wwwroot\views\materia.html
+wwwroot\views\busqueda_docente.html
+wwwroot\views\busqueda_materia.html
+wwwroot\views\docente.html
+C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\busqueda_docente.html
 C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\app.js
 C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\busqueda_alumno.html
+C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\alumno.html
+C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\busqueda_materia.html
+C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\docente.html
 C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\index.html
+C:\Users\HP\source\repos\webapp-clase\webapp\webapp\wwwroot\views\materia.html

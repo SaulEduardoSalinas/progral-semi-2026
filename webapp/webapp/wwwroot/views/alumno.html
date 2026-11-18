@@ -69,11 +69,11 @@ async function guardarAlumno() {
         telefono: txtTelefonoAlumno.value,
         email: txtEmailAlumno.value,
     },
-        url = 'https://localhost:44312/api/Alumnos',
+        url = '/api/Alumnos',
         method = 'POST';
     if (accion == 'modificar') { 
         method = 'PUT';
-        url = `https://localhost:44312/api/Alumnos/${idAlumno}`;
+        url = `/api/Alumnos/${idAlumno}`;
         datos.idAlumno = idAlumno;
     }
     const respuesta = await fetch(url, {
